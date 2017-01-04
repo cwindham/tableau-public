@@ -1,4 +1,4 @@
-A map I made in Tableau of Los Angeles parking tickets for Summer 2015:
+A map I made in Tableau of Los Angeles parking tickets for the time period Summer 2015:
 
 https://public.tableau.com/profile/charlie4876#!/vizhome/LAParkingCitations2014/NumTickets
 
